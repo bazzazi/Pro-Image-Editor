@@ -88,5 +88,5 @@ The executable will appear in `dist/ProImageEditor.exe`.
 ---
 
 ## License
+All Rights Reserved to Mohammad Ali Bazzazi
 
-MIT — free for personal and commercial use.
